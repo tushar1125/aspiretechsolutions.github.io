@@ -14,18 +14,17 @@
     "availability": "Available for new projects"
   },
   "hero": {
-    "title": "Transform Your Business with Custom Digital Solutions",
-    "subtitle": "Professional Website Development & Android App Development Services",
-    "description": "From static websites to full-stack applications, we create tailored solutions that help your business thrive in the digital world."
+    "title": "Get Your Business Online in 5 Days - Professional Websites Starting at ₹4,999",
+    "subtitle": "Custom Website & Android App Development Services",
+    "description": "Your website will look perfect on phones (where 70% of customers browse). From static websites to full-stack applications, we create tailored solutions that help your business thrive in the digital world."
   },
   "pricing": {
-    "startingPrice": "₹5,000",
-    "priceSubtitle": "Get your business online in just 5-7 days"
+    "startingPrice": "₹4,999",
+    "priceSubtitle": "Get your business online in just 5 days"
   },
   "stats": {
     "projectsCompleted": "50+",
     "happyClients": "40+",
-    "yearsExperience": "3+",
     "clientSatisfaction": "100%"
   },
   "whyWebsite": [
