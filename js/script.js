@@ -1,6 +1,6 @@
 /**
  * AspireTech Solutions - JavaScript
- * Freelance Portfolio Website
+ * Enterprise IT Solutions Website
  */
 
 // DOM Content Loaded
