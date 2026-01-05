@@ -1,6 +1,6 @@
-# AspireTech Solutions - Freelance Portfolio Website
+# AspireTech Solutions - Enterprise IT Solutions Website
 
-A professional, modern website for showcasing your freelance website development and Android app development services.
+A professional, modern website for showcasing enterprise IT solutions, custom software development, and managed IT services.
 
 ## 🚀 Features
 
@@ -210,7 +210,7 @@ Add social media icons in footer for LinkedIn, GitHub, Twitter, etc.
 
 ## 📄 License
 
-Free to use for your freelance business. Customize as needed.
+Free to use for your business. Customize as needed.
 
 ## 🤝 Support
 
@@ -218,6 +218,6 @@ For questions or customization help, refer to the comments in the code files.
 
 ---
 
-**Built with ❤️ for freelancers**
+**Built with ❤️ for IT service providers**
 
 Good luck with your freelancing journey! 🚀

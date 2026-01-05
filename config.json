@@ -3,7 +3,7 @@
     "name": "AspireTech",
     "tagline": "Solutions",
     "fullName": "AspireTech Solutions",
-    "description": "Your partner in digital transformation. Delivering custom website and Android app development solutions."
+    "description": "Your partner in digital transformation. Delivering enterprise-grade IT solutions, custom software development, and managed IT services."
   },
   "contact": {
     "email": "contact.aspiretechsolutions@gmail.com",
@@ -14,13 +14,9 @@
     "availability": "Available for new projects"
   },
   "hero": {
-    "title": "Get Your Business Online in 5 Days - Professional Websites Starting at ₹4,999",
+    "title": "Enterprise IT Solutions for Modern Businesses",
     "subtitle": "Custom Website & Android App Development Services",
-    "description": "Your website will look perfect on phones (where 70% of customers browse). From static websites to full-stack applications, we create tailored solutions that help your business thrive in the digital world."
-  },
-  "pricing": {
-    "startingPrice": "₹4,999",
-    "priceSubtitle": "Get your business online in just 5 days"
+    "description": "We deliver scalable, enterprise-grade web and mobile solutions tailored to your business needs. From full-stack applications to native Android apps, we help organizations transform digitally and achieve their technology goals."
   },
   "stats": {
     "projectsCompleted": "50+",
@@ -343,9 +339,9 @@
     ]
   },
   "seo": {
-    "title": "AspireTech Solutions - Website & Android App Development",
-    "description": "Professional Website & Android App Development Services - Custom solutions for your business",
-    "keywords": "web development, android app, react, java spring boot, freelance developer"
+    "title": "AspireTech Solutions - Enterprise IT Solutions & Software Development",
+    "description": "Enterprise IT solutions, custom software development, and managed IT services. We deliver scalable web and mobile solutions for modern businesses.",
+    "keywords": "enterprise IT solutions, custom software development, managed IT services, web development, android app, react, java spring boot"
   },
   "copyrightYear": "2026"
 }
